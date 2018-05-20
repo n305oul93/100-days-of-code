@@ -1,10 +1,20 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Desmond P.
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on Tuesday May 15, 2018.
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Worked thru freecodecamp.org Front-End-Development-Certification
 
 ### R1D2
+Continued freecodecamp.org Front-End-Development-Certification
+
+### R1D3
+Continued freecodecamp.org Front-End-Development-Certification - finished section HTML5 & CSS
+
+### R1D4
+Continued freecodecamp.org Front-End-Development-Certification - finished Resposive Design w/ Bootstrap
+
+### R1D5
+Worked on Rails portfolio site
